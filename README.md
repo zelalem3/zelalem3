@@ -5,7 +5,7 @@ Hello! I am a recent graduate of ALX, where I earned a Bachelor of Science in So
 
 ## Skills
 <h3 align="left">Languages & Technologies</h3>
-<h3 align="left">Technologies, Tools and Frameworks ⚙️ 🖥</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -79,7 +79,7 @@ Hello! I am a recent graduate of ALX, where I earned a Bachelor of Science in So
   
 </div>
 
-
+<h3 align="left">Technologies, Tools and Frameworks ⚙️ 🖥</h3>
 
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
