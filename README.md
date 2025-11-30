@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # Hello 👋Welcome to My GitHub Profile
 
 ## About Me
@@ -93,9 +97,23 @@ Hello! I am a recent graduate of ALX, where I earned a Bachelor of Science in So
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
+
+
   
 <img src="https://raw.githubusercontent.com/zelalem3/zelalem3/output/snake.svg" alt="Snake animation" />
-<img src="https://github-readme-stats.vercel.app/api?username=zelalem3&theme=default&show_icons=true&hide_border=true&count_private=true" alt="zelalem3's GitHub Stats" />
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
 
 - **Soft Skills**: Problem-solving, teamwork, communication, adaptability
 
