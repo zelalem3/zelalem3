@@ -100,7 +100,11 @@ Hello! I am a recent graduate of ALX, where I earned a Bachelor of Science in So
 
 
   
-<img src="https://raw.githubusercontent.com/zelalem3/zelalem3/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zelalem3/zelalem3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zelalem3/zelalem3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph for zelalem3" src="https://raw.githubusercontent.com/zelalem3/zelalem3/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <h3 align="left">🔥   My Stats :</h3>
