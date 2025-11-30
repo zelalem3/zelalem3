@@ -95,7 +95,7 @@ Hello! I am a recent graduate of ALX, where I earned a Bachelor of Science in So
 
   
 <img src="https://raw.githubusercontent.com/zelalem3/zelalem3/output/snake.svg" alt="Snake animation" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zelalem3)
+<img src="https://github-readme-stats.vercel.app/api?username=zelalem3&theme=default&show_icons=true&hide_border=true&count_private=true" alt="zelalem3's GitHub Stats" />
 
 - **Soft Skills**: Problem-solving, teamwork, communication, adaptability
 
