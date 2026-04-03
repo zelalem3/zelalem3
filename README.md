@@ -53,16 +53,22 @@ I am a Software Engineer who balances computer science theory with modern engine
 
 ## 🚀 Featured Engineering Projects
 
-### 🌩️ [Vortex](https://github.com/zelalem3) | Distributed Task Queue
-*Engineered a robust background processing engine focused on task distribution across multiple worker nodes.*
+### 🔄 [Parity](https://github.com/zelalem3/Parity) | Real-Time Collaborative Editor
+**[Live Demo](https://parity-ruby.vercel.app/)**
+*Engineered a collaborative document environment solving complex state-sync and concurrency challenges.*
+* **Key Achievement:** Optimized conflict resolution logic for zero-latency multi-user editing using Firebase and Socket.io.
+* **Tech:** React, Firebase, TypeScript, Node.js.
+
+### 💬 [EchoSystem](https://github.com/zelalem3/EchoSystem) | Real-Time Chat Platform
+**[Live Demo](https://echo-system-six.vercel.app/)**
+*Developed a high-performance group chat application with persistent messaging and presence tracking.*
+* **Key Achievement:** Implemented real-time typing indicators and active user counts using WebSockets.
+* **Tech:** Node.js, Socket.io, React, Firestore.
+
+### 🌩️ [Vortex](https://github.com/zelalem3/vortex) | Distributed Task Queue
+*Engineered a background processing engine focused on task distribution across multiple worker nodes.*
 * **Key Achievement:** Designed a system for high-concurrency task handling with real-time health monitoring.
 * **Tech:** Python, FastAPI, Redis, Docker.
-
-### 🔄 [Parity](https://github.com/zelalem3) | Real-Time Collaborative Editor
-*Developed a collaborative environment solving complex state-sync and concurrency challenges.*
-* **Key Achievement:** Optimized conflict resolution logic for zero-latency multi-user document editing.
-* **Tech:** React, Firebase, TypeScript.
-
 
 ---
 
