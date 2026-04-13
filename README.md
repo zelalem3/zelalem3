@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Zelalem Getnet
-### **Software Engineer | CS Graduate & ALX Alumnus**
+### **Software Engineer | CS Graduate & ALX Alumni**
 
 I am a Software Engineer who balances computer science theory with modern engineering execution. With a formal academic background in **Computer Science** and rigorous project-based training from **ALX**, I specialize in building scalable distributed systems and real-time applications.
 
