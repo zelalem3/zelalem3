@@ -81,8 +81,8 @@ I am a Software Engineer who balances computer science theory with modern engine
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelalem3&show_icons=true&theme=vision-glow&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelalem3&layout=compact&theme=vision-glow&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zelalem3&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zelalem3&theme=synthwave&hide_border=true&layout=compact" width="42%" />
 </p>
 
 ---
