@@ -1,52 +1,46 @@
 # 👋 Hello, I'm Zelalem Getnet
-### **Software Engineer | CS Graduate & ALX Alumni**
+### **Full-Stack & App Developer | CS Graduate & ALX Alumni**
 
-I am a Software Engineer who balances computer science theory with modern engineering execution. With a formal academic background in **Computer Science** and rigorous project-based training from **ALX**, I specialize in building scalable distributed systems and real-time applications.
+I am a Software Engineer who bridges computer science theory with modern engineering execution. With a formal academic background in **Computer Science** and rigorous project-based training from **ALX**, I specialize in building complete full-stack web applications, cross-platform mobile apps, and real-time backend systems.
 
-- 🔭 **Current Focus**: Distributed task queues, asynchronous architectures, and system optimization.
-- ⚡ **Technical Philosophy**: Minimalist, efficient, and terminal-driven (Lubuntu/CLI enthusiast).
-- 🎓 **Background**: A blend of theoretical CS fundamentals and agile, industry-standard SE practices.
+- 🔭 **Current Focus**: Full-stack web platforms, mobile application development, and real-time event-driven backends.
+- ⚡ **Technical Philosophy**: Minimalist, highly efficient, and keyboard-driven (Lubuntu, CLI, and automated workflows).
+- 🎓 **Background**: Strong grasp of OS fundamentals, database systems, concurrency, and clean user-experience design.
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Core Backend & Systems
+### Core Full-Stack & Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 </p>
 
-### Real-Time & Frontend Web
+### Frontend, Mobile & Web3
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react/react native logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/dfinity/portal/master/static/img/motoko-logo.png" height="40" alt="motoko logo" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'" />
 </p>
 
 ---
@@ -55,27 +49,35 @@ I am a Software Engineer who balances computer science theory with modern engine
 
 ### 🔄 [Parity](https://github.com/zelalem3/Parity) | Real-Time Collaborative Editor
 **[Live Demo](https://parity-ruby.vercel.app/)**
-*Engineered a collaborative document environment solving complex state-sync and concurrency challenges.*
-* **Key Achievement:** Optimized conflict resolution logic for zero-latency multi-user editing using Firebase and Socket.io.
+*Engineered a full-stack, low-latency collaborative document editor addressing complex state-synchronization challenges.*
+* **Key Achievement:** Resolved client-server race conditions by structuring seamless real-time database updates, ensuring zero-latency co-authoring for multiple concurrent users.
 * **Tech:** React, Firebase, TypeScript, Node.js.
 
-### 💬 [EchoSystem](https://github.com/zelalem3/EchoSystem) | Real-Time Chat Platform
+### 💬 [EchoSystem](https://github.com/zelalem3/EchoSystem) | High-Performance Messaging Platform
 **[Live Demo](https://echo-system-six.vercel.app/)**
-*Developed a high-performance group chat application with persistent messaging and presence tracking.*
-* **Key Achievement:** Implemented real-time typing indicators and active user counts using WebSockets.
+*Developed a responsive, feature-rich messaging application prioritizing instant data rendering and active presence indicators.*
+* **Key Achievement:** Built out the complete frontend client and WebSocket-powered backend to manage live state changes, active user lists, and real-time typing notifications natively.
 * **Tech:** Node.js, Socket.io, React, Firestore.
 
-### 🌩️ [Vortex](https://github.com/zelalem3/vortex) | Distributed Task Queue
-*Engineered a background processing engine focused on task distribution across multiple worker nodes.*
-* **Key Achievement:** Designed a system for high-concurrency task handling with real-time health monitoring.
+### 🌩️ [Vortex](https://github.com/zelalem3/vortex) | Multi-Node Background Task Processor
+*Engineered a background processing engine focused on horizontal scale, task queuing, and isolation.*
+* **Key Achievement:** Designed a monorepo architecture processing tasks concurrently across multiple worker nodes with a centralized Redis broker and clean visual health-monitoring interfaces.
 * **Tech:** Python, FastAPI, Redis, Docker.
+
+### 🤖 [Job Market Monitor](https://github.com/zelalem3/job-market-monitor) | Automated Pipeline & Alert System
+*Built an end-to-end data pipeline and scraper to fetch, parse, and broadcast software development opportunities.*
+* **Key Achievement:** Integrated a clean Python scraping engine with a dedicated Telegram application bot, automating real-time job deliveries straight to end-user devices.
+* **Tech:** Python,Laravel, BeautifulSoup, Telegram Bot API, CLI tools.
+
+
 
 ---
 
 ## 🎓 Education
 - **BSc in Computer Science** | *University Degree*
-  - Focused on Algorithms, Data Structures, and Operating Systems.
-- **Software Engineering Certification** | **ALX** - Intensive, project-based training focused on full-stack development and DevOps.
+  - Solid grounding in Operating Systems, Database Management Systems (DBMS), and Algorithm Analysis.
+- **Software Engineering Certification** | **ALX SE Program**
+  - Intensive 12-month engineering program emphasizing systems programming, full-stack application development, and DevOps.
 
 ---
 
@@ -93,4 +95,3 @@ I am a Software Engineer who balances computer science theory with modern engine
 - 📍 Addis Ababa, Ethiopia
 
 ---
-<p align="center"><i>"Bridging computer science theory with engineering excellence."</i></p>
