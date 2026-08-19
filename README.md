@@ -55,7 +55,6 @@ I’m particularly interested in:
 
 **Experienced with:** Flask, FastAPI, Django, Node.js, Laravel, REST APIs, WebSockets, Socket.IO, asynchronous processing, background workers, authentication, API integrations, caching, and event-driven backend architectures.
 
-
 ### Frontend & Mobile
 
 <p align="left">
@@ -120,7 +119,6 @@ I’m particularly interested in:
 * 🐧 Linux and CLI-driven development
 * 🔧 Git-based version control and collaborative workflows
 * 🧩 Modular architecture and reusable services
-
 
 ### Automation, Data & AI
 
@@ -214,6 +212,69 @@ JobPulse is designed to turn fragmented job-market data into a centralized platf
 **[Open JobPulse →](https://job-pulse-five.vercel.app/)**
 
 ---
+
+## 🎤 InterviewPulse — AI-Powered Interview Platform
+
+**A full-stack interview platform that simulates technical interviews through text and video-based interactions.**
+
+InterviewPulse is designed to provide an interactive interview experience where candidates can practice answering questions, receive AI-powered evaluation, and track their interview performance.
+
+### Engineering Highlights
+
+* 🎥 Browser-based video interview experience
+* 💬 Text-based interview mode
+* 🎙️ Audio capture and speech interaction
+* 🧠 AI-powered answer evaluation
+* 🔄 Stateful conversational interview flow
+* 📝 Dynamic follow-up questions
+* 📊 Interview scoring and performance feedback
+* 🔐 JWT-based authentication and protected APIs
+* ⚡ FastAPI backend with asynchronous request handling
+* 🗃️ PostgreSQL database with SQLAlchemy
+* 🔄 Alembic database migrations
+* 🧩 React + TypeScript frontend
+* 🐳 Dockerized development environment
+* 🔊 Browser speech synthesis for interactive interviews
+* 🧱 Modular React hooks for interview state, recording, timers, speech, and transcription
+
+### Architecture
+
+```text
+                    USER
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+     Text Interview       Video Interview
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+              React + TypeScript
+                     │
+                     ▼
+              Interview Engine
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       Questions   Answers    Session State
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+                FastAPI API
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+      PostgreSQL          AI Evaluation
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+             Scores & Feedback
+```
+
+### Tech
+
+**React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · Alembic · Docker · JWT · Web APIs · Speech Synthesis**
+
+---
+
 ## 🔄 Parity — Real-Time Collaborative Editor
 
 **A full-stack collaborative editing application built around real-time synchronization.**
@@ -283,25 +344,6 @@ A backend-focused project exploring distributed task processing, worker coordina
 
 ---
 
-## 📚 CodeJourney — LeetCode Progress Tracker
-
-A full-stack developer tool for tracking coding-problem progress and building structured problem-solving habits.
-
-### Engineering Highlights
-
-* Built a REST API for coding-problem and progress data
-* Implemented authentication and protected API endpoints
-* Designed relational models for users, problems, and progress
-* Built a React/TypeScript frontend
-* Integrated external coding-platform data
-* Added dashboard-style progress tracking
-
-### Tech
-
-**Laravel · React · TypeScript · Tailwind CSS · PostgreSQL · REST APIs**
-
----
-
 # 🧠 What I Enjoy Building
 
 My strongest interests are around systems where multiple components need to work together reliably.
@@ -320,7 +362,7 @@ Scrapers, automated pipelines, data normalization, scheduled processing, browser
 
 ### Developer-Focused Applications
 
-Tools that help developers track progress, automate repetitive work, process information, or make better decisions.
+Tools that help developers automate repetitive work, process information, practice technical skills, or make better decisions.
 
 ---
 
@@ -413,8 +455,8 @@ Infrastructure
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn — Zelalem Getnet
-* 💻 GitHub — zelalem3
+* 💼 LinkedIn — [Zelalem Getnet](https://www.linkedin.com/in/zelalem-getnet-533326246/)
+* 💻 GitHub — [zelalem3](https://github.com/zelalem3)
 * 📧 Email — [zgetnet24@gmail.com](mailto:zgetnet24@gmail.com)
 * 📍 Addis Ababa, Ethiopia
 
