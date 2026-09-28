@@ -1,469 +1,573 @@
 # 👋 Hi, I'm Zelalem Getnet
 
-### Full-Stack Software Engineer | Computer Science Graduate | ALX Software Engineering Alumni
+### Full-Stack Software Engineer · Backend-Focused · Computer Science Graduate
 
-I'm a Full-Stack Software Engineer focused on building backend-heavy applications, real-time systems, automation pipelines, and data-driven platforms. I work primarily with Python, TypeScript, React, Node.js, Laravel, PostgreSQL, Redis, and Docker.
+<p align="left">
+  <a href="https://github.com/zelalem3">
+    <img src="https://img.shields.io/badge/GitHub-zelalem3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zelalem-getnet-533326246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zelalem%20Getnet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zgetnet24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-I’m particularly interested in:
+> **I build backend-heavy applications, real-time systems, automation pipelines, and data-driven products.**
 
-* ⚙️ Backend architecture and distributed application design
-* 🔄 Real-time and event-driven systems
-* 🕷️ Web scraping, automation, and data pipelines
-* 🧠 Intelligent data processing and recommendation systems
-* 🌐 Full-stack web application development
-* 📱 Cross-platform mobile development
-* 🐳 Containerized development and deployment
-* 🧪 Automated testing and developer tooling
+I'm a Full-Stack Software Engineer with a strong interest in the engineering behind applications — APIs, databases, background workers, queues, real-time communication, data pipelines, and distributed systems.
 
-> **Engineering philosophy:** Build simple systems first, understand the underlying mechanics, and optimize where complexity actually matters.
+My primary stack includes **Python, TypeScript, React, Node.js, Laravel, PostgreSQL, Redis, and Docker**.
+
+I prefer understanding how systems work underneath the abstractions, building simple solutions first, and introducing complexity only when it solves a real problem.
 
 ---
 
-## 🛠️ Technical Stack
+## ⚡ What I Build
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     SOFTWARE SYSTEMS                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Backend              Real-Time             Automation      │
+│  ─────────             ─────────             ─────────      │
+│  REST APIs             WebSockets            Scrapers       │
+│  Databases             Live State            Data Pipelines │
+│  Authentication        Presence              Playwright     │
+│  Queues                Events                Processing     │
+│  Caching               Notifications         Extraction     │
+│                                                             │
+│  Infrastructure        Full-Stack           Intelligence    │
+│  ──────────────        ─────────             ─────────────  │
+│  Docker                React                 Recommendations│
+│  Linux                 TypeScript            Skill Matching │
+│  Redis                 Responsive UI         AI Processing  │
+│  PostgreSQL             API Integration       Analytics     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Technical Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" alt="Dart"/>
 </p>
+
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `C++` · `Dart`
 
 ### Backend & APIs
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" alt="Laravel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis"/>
 </p>
 
-**Experienced with:** Flask, FastAPI, Django, Node.js, Laravel, REST APIs, WebSockets, Socket.IO, asynchronous processing, background workers, authentication, API integrations, caching, and event-driven backend architectures.
+`FastAPI` · `Flask` · `Django` · `Node.js` · `Laravel` · `REST APIs` · `WebSockets` · `Socket.IO` · `Background Workers`
 
 ### Frontend & Mobile
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
 </p>
 
-**Experienced with:** React, TypeScript, Next.js, Flutter, responsive UI development, state management, API integration, and real-time frontend state synchronization.
+`React` · `TypeScript` · `Next.js` · `Flutter` · `Responsive UI` · `State Management`
 
 ### Databases & Infrastructure
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
 </p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Docker` · `Linux`
 
 ### 🧰 Tools & Practices
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm" title="npm"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" title="Postman"/>
 </p>
 
-**Development Practices**
+<p>
+  <strong>Git</strong> ·
+  <strong>GitHub</strong> ·
+  <strong>Docker</strong> ·
+  <strong>Linux</strong> ·
+  <strong>npm</strong> ·
+  <strong>VS Code</strong> ·
+  <strong>Postman</strong>
+</p>
+
+### 🔧 Development Practices
 
 * 🧪 Automated testing with Playwright
 * 🔄 REST APIs & WebSockets
 * ⚡ Background jobs and asynchronous processing
 * 🗃️ Database migrations and relational data modeling
-* 🚀 Docker & Docker Compose
+* 🐳 Docker & Docker Compose
 * 🔐 Authentication and protected APIs
 * 💾 Redis caching and queue-based processing
 * 🐧 Linux and CLI-driven development
-* 🔧 Git-based version control and collaborative workflows
+* 🔀 Git-based version control
 * 🧩 Modular architecture and reusable services
-
-### Automation, Data & AI
-
-* Playwright
-* BeautifulSoup
-* Python scraping pipelines
-* REST API integrations
-* Telegram Bot API
-* Automated job processing
-* Data normalization and extraction
-* Skill extraction and taxonomy-based matching
-* AI-assisted text processing with Gemini
-* Recommendation systems
-* Scheduled/background jobs
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
 
-## 🎯 JobPulse — Ethiopian Job Intelligence Platform
+These are the projects that best represent the kind of systems I enjoy building.
 
-**An end-to-end job discovery and intelligence platform combining automated data collection, skill extraction, recommendations, and real-time alerts.**
+---
 
-[🌐 Live Demo](https://job-pulse-five.vercel.app/) · [💻 Source Code](https://github.com/zelalem3/job-market-monitor)
+## 🎯 JobPulse
 
-JobPulse is designed to turn fragmented job-market data into a centralized platform where users can discover relevant opportunities, understand market trends, and receive personalized job alerts.
+### Ethiopian Job Intelligence Platform
+
+> A full-stack job discovery and intelligence platform that collects fragmented job-market data, processes it, matches opportunities to users, and delivers personalized alerts.
+
+<p align="left">
+  <a href="https://job-pulse-five.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20JobPulse-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zelalem3/JobPulse">
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
+  </a>
+</p>
+
+### Why I built it
+
+Job opportunities in Ethiopia are spread across websites, Telegram channels, organizations, and other sources.
+
+JobPulse brings these sources together into one system and transforms raw listings into searchable, structured, and personalized job intelligence.
 
 ### Engineering Highlights
 
 * 🕷️ Automated job collection from multiple sources
 * ⚡ Asynchronous scraping and background processing
-* 🧩 Normalization of job data from different sources into a unified structure
-* 🧠 Automated technical skill extraction from job descriptions
-* 🤖 Gemini-assisted extraction for difficult or ambiguous descriptions
-* 🎯 Skill-based job recommendation system
-* 📊 Job-market and skill trend analysis
-* 📬 Automated email job alerts
-* 📱 Telegram job notifications
-* 💾 PostgreSQL for structured relational data
-* ⚡ Redis for caching and asynchronous workloads
-* 🐳 Dockerized backend infrastructure
-* 🌐 React + TypeScript frontend
-* 🔐 Laravel API/backend architecture
-* 🧪 Playwright-based browser automation
-* 🐍 Python-based scraping and data-processing services
+* 🧩 Job-data normalization and deduplication
+* 🧠 Technical skill extraction
+* 🎯 Skill-based recommendation system
+* 📊 Job-market and skill analytics
+* 📬 Automated email alerts
+* 📱 Telegram notifications
+* 💾 PostgreSQL data layer
+* ⚡ Redis caching and asynchronous workloads
+* 🐳 Dockerized infrastructure
+* 🔐 Laravel API with authentication
+* ⚛️ React + TypeScript frontend
+* 🧪 Playwright browser automation
+* 🐍 Python scraping and processing services
 
 ### Architecture
 
 ```text
-                   JOB SOURCES
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-       Websites       APIs       Telegram
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-              Python Scraping Layer
-                       │
-                       ▼
-                Data Normalization
-                       │
-                       ▼
-                 Skill Extraction
-                 ┌─────┴─────┐
-                 ▼           ▼
-             Local NLP    Gemini AI
-                 │           │
-                 └─────┬─────┘
-                       ▼
-                  PostgreSQL
-                       │
-              ┌────────┼─────────┐
-              ▼        ▼         ▼
-        Recommendations Alerts  Analytics
-                       │
-                 ┌─────┴─────┐
-                 ▼           ▼
-               Email      Telegram
-                       │
-                       ▼
-                React Frontend
+                  ┌──────────────────┐
+                  │    JOB SOURCES   │
+                  │ Websites / APIs  │
+                  │ Telegram / Feeds │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ PYTHON SCRAPERS  │
+                  │ Playwright       │
+                  │ BeautifulSoup    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ DATA NORMALIZER  │
+                  │ Deduplication    │
+                  │ Classification   │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ SKILL EXTRACTION │
+                  │ Local Processing │
+                  │ Gemini Fallback  │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │   POSTGRESQL     │
+                  └────────┬─────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+       Recommendations   Alerts       Analytics
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                  ┌──────────────────┐
+                  │   LARAVEL API    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ REACT FRONTEND   │
+                  └──────────────────┘
 ```
 
-### Tech
+### Stack
 
-**Python · Playwright · BeautifulSoup · Laravel · React · TypeScript · PostgreSQL · Redis · Docker · Gemini · Telegram Bot API**
-
-### 🌐 Live
-
-**[Open JobPulse →](https://job-pulse-five.vercel.app/)**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 🎤 InterviewPulse — AI-Powered Interview Platform
+## 🎤 InterviewPulse
 
-**A full-stack interview platform that simulates technical interviews through text and video-based interactions.**
+### AI-Powered Interview Practice Platform
 
-InterviewPulse is designed to provide an interactive interview experience where candidates can practice answering questions, receive AI-powered evaluation, and track their interview performance.
+> A full-stack interview platform that simulates technical interviews through text and video-based interactions.
+
+<p align="left"> <a href="https://interview-pulse-five.vercel.app/"> <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20InterviewPulse-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/> </a> &nbsp; <a href="https://github.com/zelalem3/InterviewPulse"> <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/> </a> </p>
+
+
+### What it does
+
+InterviewPulse creates an interactive interview environment where candidates can answer questions, interact with an interview flow, and receive AI-powered evaluation and feedback.
 
 ### Engineering Highlights
 
-* 🎥 Browser-based video interview experience
-* 💬 Text-based interview mode
+* 🎥 Browser-based video interviews
+* 💬 Text interview mode
 * 🎙️ Audio capture and speech interaction
 * 🧠 AI-powered answer evaluation
-* 🔄 Stateful conversational interview flow
+* 🔄 Stateful interview sessions
 * 📝 Dynamic follow-up questions
-* 📊 Interview scoring and performance feedback
-* 🔐 JWT-based authentication and protected APIs
-* ⚡ FastAPI backend with asynchronous request handling
-* 🗃️ PostgreSQL database with SQLAlchemy
-* 🔄 Alembic database migrations
-* 🧩 React + TypeScript frontend
-* 🐳 Dockerized development environment
-* 🔊 Browser speech synthesis for interactive interviews
-* 🧱 Modular React hooks for interview state, recording, timers, speech, and transcription
+* 📊 Interview scoring and feedback
+* 🔐 JWT authentication
+* ⚡ FastAPI backend
+* 🗃️ PostgreSQL + SQLAlchemy
+* 🔄 Alembic migrations
+* ⚛️ React + TypeScript
+* 🐳 Dockerized development
+* 🔊 Browser speech synthesis
+* 🧩 Modular React hooks for interview state, recording, timers, speech, and transcription
 
 ### Architecture
 
 ```text
                     USER
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-     Text Interview       Video Interview
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-              React + TypeScript
-                     │
-                     ▼
-              Interview Engine
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       Questions   Answers    Session State
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-                FastAPI API
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-      PostgreSQL          AI Evaluation
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-             Scores & Feedback
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+       TEXT INTERVIEW     VIDEO INTERVIEW
+             │                 │
+             └────────┬────────┘
+                      ▼
+             ┌─────────────────┐
+             │ React + TS      │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Interview Engine│
+             └────────┬────────┘
+                      │
+              ┌───────┼───────┐
+              ▼       ▼       ▼
+          Questions Answers Session
+              │       │       │
+              └───────┼───────┘
+                      ▼
+             ┌─────────────────┐
+             │    FastAPI      │
+             └────────┬────────┘
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+        PostgreSQL        AI Evaluation
+             │                 │
+             └────────┬────────┘
+                      ▼
+               Scores & Feedback
 ```
 
-### Tech
+### Stack
 
-**React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · Alembic · Docker · JWT · Web APIs · Speech Synthesis**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 🔄 Parity — Real-Time Collaborative Editor
+## 🔄 Parity
 
-**A full-stack collaborative editing application built around real-time synchronization.**
+### Real-Time Collaborative Editor
 
-[🌐 Live Demo](https://parity-ruby.vercel.app/) · [💻 Source Code](https://github.com/zelalem3/Parity)
+> A collaborative editing application exploring real-time synchronization, shared state, and multi-user interaction.
 
-Parity explores the engineering challenges involved in keeping multiple clients synchronized while users interact with shared content in real time.
+<p align="left">
+  <a href="https://parity-ruby.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Try%20Parity-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zelalem3/Parity">
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
+  </a>
+</p>
 
 ### Engineering Highlights
 
-* 🔄 Real-time synchronization between connected clients
-* ⚡ Designed client-side state around live database updates
-* 👥 Supports collaborative interaction between multiple users
-* 🧩 Built the frontend with React and TypeScript
-* 🔥 Uses Firebase for real-time data synchronization and persistence
-* 🧠 Focused on client/server state consistency and event-driven updates
+* 🔄 Real-time synchronization
+* 👥 Multi-user collaborative interaction
+* ⚡ Live database updates
+* 🧩 Client-side state synchronization
+* ⚛️ React + TypeScript frontend
+* 🔥 Firebase real-time infrastructure
+* 🧠 Focus on consistency between clients and server state
 
-### Tech
+### Stack
 
-**React · TypeScript · Node.js · Firebase**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
-## 💬 EchoSystem — Real-Time Messaging Platform
+## 💬 EchoSystem
 
-**A full-stack real-time messaging application with live presence and instant communication.**
+### Real-Time Messaging Platform
 
-[🌐 Live Demo](https://echo-system-six.vercel.app/) · [💻 Source Code](https://github.com/zelalem3/EchoSystem)
+> A real-time messaging application focused on instant communication, presence, typing indicators, and live UI synchronization.
 
-EchoSystem is a real-time messaging platform focused on instant communication, presence tracking, and live UI state synchronization.
+<p align="left">
+  <a href="https://echo-system-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Try%20EchoSystem-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zelalem3/EchoSystem">
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
+  </a>
+</p>
 
 ### Engineering Highlights
 
-* 💬 Built a complete real-time messaging experience
-* ⚡ Implemented WebSocket communication with Socket.IO
-* 🟢 Added active-user presence indicators
-* 👥 Displays live active-user state
-* ⌨️ Implemented real-time typing notifications
-* 🔄 Updates application state immediately as events arrive
-* 🗄️ Uses Firestore for persistent application data
-* 🎨 Built the client interface with React
+* 💬 Real-time messaging
+* ⚡ Socket.IO WebSocket communication
+* 🟢 Active-user presence
+* ⌨️ Live typing indicators
+* 🔄 Event-driven UI updates
+* 🗄️ Firestore persistence
+* ⚛️ React client interface
 
-### Tech
+### Stack
 
-**React · Node.js · Express.js · Socket.IO · Firestore**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
-## 🌩️ Vortex — Distributed Background Task Processor
+## 🌩️ Vortex
 
-**Multi-worker background processing system**
+### Distributed Background Task Processor
 
-A backend-focused project exploring distributed task processing, worker coordination, queues, and system observability.
+> A backend-focused system exploring distributed task processing, worker coordination, queues, and observability.
+
+<p align="left">
+  <a href="https://github.com/zelalem3/Vortex">
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
+  </a>
+</p>
 
 ### Engineering Highlights
 
-* Designed a worker-based task processing architecture
-* Used Redis as a centralized message broker
-* Supported concurrent processing across multiple workers
-* Separated task submission from task execution
-* Containerized services with Docker
-* Built a monitoring interface for worker/task health
+* ⚙️ Worker-based task processing
+* 📬 Redis message broker
+* ⚡ Concurrent task execution
+* 🔀 Separation of task submission and execution
+* 🐳 Dockerized services
+* 📊 Worker and task monitoring
+* 🔧 Backend-focused architecture
 
-### Tech
+### Stack
 
-**Python · FastAPI · Redis · Docker**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-# 🧠 What I Enjoy Building
+# 🧠 Engineering Interests
 
-My strongest interests are around systems where multiple components need to work together reliably.
+I enjoy building systems where multiple components need to work together reliably.
 
-### Real-Time Systems
+### ⚙️ Backend Engineering
 
-WebSocket applications, live presence, collaborative interfaces, event-driven state synchronization, and real-time notifications.
+`REST APIs` · `Authentication` · `Databases` · `Caching` · `Queues` · `Background Workers` · `Service Integration`
 
-### Backend Systems
+### 🔄 Real-Time Systems
 
-REST APIs, authentication, database architecture, background workers, caching, queues, and service integration.
+`WebSockets` · `Socket.IO` · `Event-Driven Systems` · `Live Presence` · `Notifications` · `State Synchronization`
 
-### Data & Automation
+### 🕷️ Automation & Data
 
-Scrapers, automated pipelines, data normalization, scheduled processing, browser automation, and intelligent extraction.
+`Web Scraping` · `Playwright` · `Data Pipelines` · `Normalization` · `Text Extraction` · `Scheduled Processing`
 
-### Developer-Focused Applications
+### 🧠 Intelligent Systems
 
-Tools that help developers automate repetitive work, process information, practice technical skills, or make better decisions.
+`Recommendation Systems` · `Skill Matching` · `AI-Assisted Processing` · `Data Classification`
+
+### 🎨 Full-Stack Development
+
+`React` · `TypeScript` · `API Integration` · `Responsive Interfaces` · `Real-Time UI`
+
+### 🐳 Infrastructure
+
+`Linux` · `Docker` · `Docker Compose` · `Redis` · `PostgreSQL` · `CI/CD`
 
 ---
 
 # 🎓 Education
 
-### BSc in Computer Science
+## BSc in Computer Science
 
 **University Degree**
 
 Academic foundation in:
 
-* Data Structures & Algorithms
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-* Software Engineering
-* Computer Architecture
-* Object-Oriented Programming
+`Data Structures & Algorithms` · `Operating Systems` · `Database Management` · `Computer Networks` · `Software Engineering` · `Computer Architecture` · `Object-Oriented Programming`
 
-### ALX Software Engineering Program
+## ALX Software Engineering Program
 
 **ALX Software Engineering Alumni**
 
-Intensive project-based software engineering training covering:
+Project-based engineering training covering:
 
-* Systems programming
-* C and low-level programming
-* Algorithms and data structures
-* Linux and shell environments
-* Backend development
-* Web development
-* Databases
-* APIs
-* DevOps fundamentals
-* Collaborative software development
+`C` · `Algorithms` · `Data Structures` · `Linux` · `Shell` · `Backend Development` · `Web Development` · `Databases` · `APIs` · `DevOps` · `Collaborative Development`
 
 ---
 
-# 🧪 Engineering Interests
-
-```text
-Backend Engineering
-       │
-       ├── APIs
-       ├── Databases
-       ├── Caching
-       ├── Queues
-       └── Background Workers
-
-Real-Time Systems
-       │
-       ├── WebSockets
-       ├── Socket.IO
-       ├── Event-Driven State
-       └── Live Notifications
-
-Automation & Data
-       │
-       ├── Playwright
-       ├── Web Scraping
-       ├── Data Pipelines
-       ├── Text Extraction
-       └── AI-Assisted Processing
-
-Frontend
-       │
-       ├── React
-       ├── TypeScript
-       ├── Next.js
-       └── Responsive UI
-
-Infrastructure
-       │
-       ├── Linux
-       ├── Docker
-       ├── Redis
-       └── PostgreSQL
-```
-
----
-
-# 📊 GitHub Insights
+# 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=zelalem3&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zelalem3&theme=synthwave&hide_border=true&layout=compact" width="42%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zelalem3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zelalem3&theme=tokyonight&hide_border=true&layout=compact" width="40%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelalem3&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-* 💼 LinkedIn — [Zelalem Getnet](https://www.linkedin.com/in/zelalem-getnet-533326246/)
-* 💻 GitHub — [zelalem3](https://github.com/zelalem3)
-* 📧 Email — [zgetnet24@gmail.com](mailto:zgetnet24@gmail.com)
-* 📍 Addis Ababa, Ethiopia
+<p align="left">
+  <a href="https://www.linkedin.com/in/zelalem-getnet-533326246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/zelalem3">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:zgetnet24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+📍 **Addis Ababa, Ethiopia**
 
 ---
 
-### ⚡ Currently Building
+# ⚡ Currently Building
 
-**JobPulse** — turning fragmented job-market data into a searchable, intelligent, and real-time job discovery platform.
+### 🎯 JobPulse
 
-> *Build it. Understand it. Automate it. Improve it.*
+Turning fragmented job-market data into a searchable, intelligent, and personalized job discovery platform.
+
+**Focus:** scraping · data processing · recommendations · alerts · real-time systems · backend architecture
+
+<p>
+  <a href="https://job-pulse-five.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE%20JOBPULSE-→-2563EB?style=for-the-badge&labelColor=0F172A" alt="Explore JobPulse"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### Build it. Understand it. Automate it. Improve it.
+
+</p>
