@@ -87,7 +87,7 @@ I prefer understanding how systems work underneath the abstractions, building si
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis"/>
 </p>
 
-`FastAPI` · `Flask` · `Django` · `Node.js` · `Laravel` · `REST APIs` · `WebSockets` · `Socket.IO` · `Background Workers`
+`Node.js` · `FastAPI` · `Flask` · `Django`  · `Laravel` · `REST APIs` · `WebSockets` · `Socket.IO` · `Background Workers`
 
 ### Frontend & Mobile
 
