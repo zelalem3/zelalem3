@@ -31,8 +31,8 @@ I prefer understanding how systems work underneath the abstractions, building si
 │                     SOFTWARE SYSTEMS                        │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Backend              Real-Time             Automation      │
-│  ─────────             ─────────             ─────────      │
+│   Backend                Real-Time              Automation  │
+│  ─────────             ─────────              ─────────     │ 
 │  REST APIs             WebSockets            Scrapers       │
 │  Databases             Live State            Data Pipelines │
 │  Authentication        Presence              Playwright     │
@@ -44,7 +44,7 @@ I prefer understanding how systems work underneath the abstractions, building si
 │  Docker                React                 Recommendations│
 │  Linux                 TypeScript            Skill Matching │
 │  Redis                 Responsive UI         AI Processing  │
-│  PostgreSQL             API Integration       Analytics     │
+│  PostgreSQL            API Integration       Analytics     │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
