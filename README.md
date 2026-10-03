@@ -44,7 +44,7 @@ I prefer understanding how systems work underneath the abstractions, building si
 │  Docker                React                 Recommendations│
 │  Linux                 TypeScript            Skill Matching │
 │  Redis                 Responsive UI         AI Processing  │
-│  PostgreSQL            API Integration       Analytics     │
+│  PostgreSQL            API Integration       Analytics      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
