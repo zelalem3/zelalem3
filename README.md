@@ -361,42 +361,6 @@ InterviewPulse creates an interactive interview environment where candidates can
 
 ---
 
-## 🔄 Parity
-
-### Real-Time Collaborative Editor
-
-> A collaborative editing application exploring real-time synchronization, shared state, and multi-user interaction.
-
-<p align="left">
-  <a href="https://parity-ruby.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Try%20Parity-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/zelalem3/Parity">
-    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
-  </a>
-</p>
-
-### Engineering Highlights
-
-* 🔄 Real-time synchronization
-* 👥 Multi-user collaborative interaction
-* ⚡ Live database updates
-* 🧩 Client-side state synchronization
-* ⚛️ React + TypeScript frontend
-* 🔥 Firebase real-time infrastructure
-* 🧠 Focus on consistency between clients and server state
-
-### Stack
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
----
 
 ## 💬 EchoSystem
 
@@ -436,17 +400,7 @@ InterviewPulse creates an interactive interview environment where candidates can
 
 ---
 
-## 🌩️ Vortex
 
-### Distributed Background Task Processor
-
-> A backend-focused system exploring distributed task processing, worker coordination, queues, and observability.
-
-<p align="left">
-  <a href="https://github.com/zelalem3/Vortex">
-    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-View%20Repository-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Source Code"/>
-  </a>
-</p>
 
 ### Engineering Highlights
 
@@ -550,13 +504,6 @@ Project-based engineering training covering:
 
 ---
 
-# ⚡ Currently Building
-
-### 🎯 JobPulse
-
-Turning fragmented job-market data into a searchable, intelligent, and personalized job discovery platform.
-
-**Focus:** scraping · data processing · recommendations · alerts · real-time systems · backend architecture
 
 <p>
   <a href="https://job-pulse-five.vercel.app/">
